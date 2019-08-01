@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="$(if [ "$OSTYPE" "==" "cygwin" ]; then cygpath -u 'C:\Users\nati_\Documents\Cuatrimestre\Arquitectura\arquienv'; else echo '/C/Users/nati_/Documents/Cuatrimestre/Arquitectura/arquienv'; fi;)"
+VIRTUAL_ENV="$(if [ "$OSTYPE" "==" "cygwin" ]; then cygpath -u 'C:\Users\SMYRNA~1\DOCUME~1\UNIVER~2\ARQUIT~1\FINALA~1\ARQUIT~1\arquienv'; else echo '/C/Users/SMYRNA~1/DOCUME~1/UNIVER~2/ARQUIT~1/FINALA~1/ARQUIT~1/arquienv'; fi;)"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

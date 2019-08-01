@@ -1,6 +1,6 @@
 @echo off
 
-set "VIRTUAL_ENV=C:\Users\nati_\Documents\Cuatrimestre\Arquitectura\arquienv"
+set "VIRTUAL_ENV=C:\Users\SMYRNA~1\DOCUME~1\UNIVER~2\ARQUIT~1\FINALA~1\ARQUIT~1\arquienv"
 
 if defined _OLD_VIRTUAL_PROMPT (
     set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
